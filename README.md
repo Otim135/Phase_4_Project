@@ -21,11 +21,11 @@ Ever wondered how platforms like Netflix recommend movies tailored to your taste
 ## 📊 **Visual Insights**
 
 ### **1️⃣ Distribution of Ratings**
-![Distribution of Ratings](rating_distribution.png)
+![Distribution of Ratings](images/rating_distribution.png)
 > *Analyzing how users rate movies to fine-tune recommendation accuracy.*
 
 ### **2️⃣ Model Performance Comparison**
-![Model Performance](model_performance.png)
+![Model Performance](images/model_performance.png)
 > *Evaluating RMSE and MAE across different recommendation models to ensure the best accuracy.*
 
 ---
@@ -36,7 +36,7 @@ Ever wondered how platforms like Netflix recommend movies tailored to your taste
 📂 Recommendation_systems
 │── 📜 Recommendation_systems.ipynb  # Jupyter Notebook
 │── 📜 README.md                      # Project Documentation
-│── 📂 data/                           # Dataset (if applicable)
+│── 📂 data/                           # Dataset 
 │── 📂 images/                         # Visualizations
 ```
 
