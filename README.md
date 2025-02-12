@@ -37,7 +37,6 @@ Ever wondered how platforms like Netflix recommend movies tailored to your taste
 │── 📜 Recommendation_systems.ipynb  # Jupyter Notebook
 │── 📜 README.md                      # Project Documentation
 │── 📂 data/                           # Dataset (if applicable)
-│── 📂 models/                         # Saved models (if applicable)
 │── 📂 images/                         # Visualizations
 ```
 
